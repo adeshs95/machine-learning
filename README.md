@@ -1,5 +1,8 @@
 # machine-learning
-Implementation of various classifier
+Implementation of Decision tree
+
+# Dataset :Breast Cancer dataset
+# Downlaod link : https://archive.ics.uci.edu/ml/datasets/Breast+Cancer
 
 I have implemented four parts,given below
 
